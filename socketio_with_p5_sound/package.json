@@ -1,0 +1,19 @@
+{
+  "name": "itp-camp-socket-sound",
+  "version": "0.0.1",
+  "private": true,
+  "engines": {
+    "node": ">= 4.0.0"
+  },
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.5.2",
+    "ejs": "*",
+    "express": "4.x",
+    "nodemon": "^1.9.2",
+    "serve-favicon": "^2.2.0",
+    "socket.io": "^1.2.1"
+  }
+}
