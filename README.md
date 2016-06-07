@@ -7,7 +7,7 @@ SOCKET.IO + p5JS Workshop
 * [express](http://expressjs.com/)
 * [socket.io]()
 * [p5JS](http://p5js.org/download/)
-* [p5.sound](http://p5play.molleindustria.org/)
+* [p5.sound](https://p5js.org/libraries/)
 
 ####Setup:
 * Download an IDE such as [Sublime Text](http://www.sublimetext.com/3)
@@ -26,3 +26,6 @@ SOCKET.IO + p5JS Workshop
 * `cd` into the appropriate example folder
 * Type `nodemon app.js` OR `node app.js` and press `enter`
 * Open browser to `localhost:3000`
+
+####Deploy
+* Use [Heroku](https://devcenter.heroku.com/articles/getting-started-with-nodejs#introduction)
