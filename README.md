@@ -1,5 +1,5 @@
-SOCKET.IO + p5JS
-================
+SOCKET.IO + p5JS Workshop
+=========================
 
 ####Built with:
 * [node](https://nodejs.org/en/)
@@ -22,7 +22,7 @@ SOCKET.IO + p5JS
 	* Usually, you would need to run `npm install` to import them.
 
 ####Run Examples
-* In Macs open Terminal. In Windows open Command Prompt
+* Macs - open `Terminal`. Windows - open `Command Prompt`
 * `cd` into the appropriate example folder
 * Type `nodemon app.js` OR `node app.js` and press `enter`
 * Open browser to `localhost:3000`
