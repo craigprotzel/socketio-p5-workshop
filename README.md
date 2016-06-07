@@ -18,7 +18,8 @@ SOCKET.IO + p5JS
 		* Search for "Sublime Linter" and press `enter` to install
 * Download and install [node.js](https://nodejs.org/en/)
 * Download this github repo
-
+	* Note, this repo includes the necessary node modules. 
+	* Usually, you would need to run `npm install` to import them.
 
 ####Run Examples
 * In Macs open Terminal. In Windows open Command Prompt
